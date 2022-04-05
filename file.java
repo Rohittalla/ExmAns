@@ -40,7 +40,7 @@ public class file {
 
             System.out.println(
 
-                "File reading and writing both done");
+                "File done");
 
         }
 
@@ -48,7 +48,7 @@ public class file {
 
             System.out.println(
 
-                "There are some IOException");
+                "IOException");
 
         }
 
